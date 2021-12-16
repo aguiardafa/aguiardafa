@@ -1,12 +1,12 @@
-## A little bit about me
+## Hi, I'm Diego Aguiar 👋
 
 I'm a Software developer/analyst. :technologist::heart:
 
-I'm currently working with Java Stack :coffee::leaves:(Spring, JSP, JPA, Maven...), Python for data analysis :chart_with_upwards_trend::snake:(Dash Plotly, Dashboards, Pandas, SQL) and Docker :building_construction::whale:.
-
-I’m currently learning JavaScript, Angular, Node.js and Rest API. :man_student::memo::books:
+I currently working with Java Stack :coffee::leaves:(Spring, JSP, JPA, Maven...), Python for data analysis :chart_with_upwards_trend::snake:(Dash Plotly, Dashboards, Pandas, SQL) and Docker :building_construction::whale:.
 
 I'm enthusiast to web & mobile development technologies. :star_struck:
+
+I’m learning JavaScript, Angular, Node.js and Rest API. :man_student::memo::books:
 
 [![Github Badge](https://img.shields.io/badge/-Github-0D1117?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aguiardafa)](https://github.com/aguiardafa)
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Aguiar-0D1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-aguiar-09031989/)](https://www.linkedin.com/in/diego-aguiar-09031989/) 
