@@ -13,8 +13,7 @@ I'm enthusiast to web & mobile development technologies. :star_struck:
 [![Gmail Badge](https://img.shields.io/badge/-diego.fernandes.aguiar@gmail.com-0D1117?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.fernandes.aguiar@gmail.com)](mailto:diego.schell.f@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-0D1117?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dieguinhoaguiar)](https://www.instagram.com/dieguinhoaguiar)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguiardafa&show_icons=true&theme=github_dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguiardafa&langs_count=8&layout=compact&theme=github_dark)](https://github.com/aguiardafa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguiardafa&show_icons=true&theme=github_dark&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguiardafa&langs_count=8&layout=compact&theme=github_dark)](https://github.com/aguiardafa/github-readme-stats)
 
 <!---
 aguiardafa/aguiardafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
