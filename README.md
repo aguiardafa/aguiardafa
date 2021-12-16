@@ -1,5 +1,3 @@
-### Hi, I'm Diego Aguiar 👋
-
 ## A little bit about me
 
 I'm a Software developer/analyst. :technologist::heart:
