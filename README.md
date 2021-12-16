@@ -8,13 +8,11 @@ I’m currently learning JavaScript, Angular, Node.js and Rest API. :man_student
 
 I'm enthusiast to web & mobile development technologies. :star_struck:
 
-## Find me around the web
 [![Github Badge](https://img.shields.io/badge/-Github-0D1117?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aguiardafa)](https://github.com/aguiardafa)
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Aguiar-0D1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-aguiar-09031989/)](https://www.linkedin.com/in/diego-aguiar-09031989/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.fernandes.aguiar@gmail.com-0D1117?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.fernandes.aguiar@gmail.com)](mailto:diego.schell.f@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-0D1117?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dieguinhoaguiar)](https://www.instagram.com/dieguinhoaguiar)
 
-## My activities on GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguiardafa&show_icons=true&theme=github_dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguiardafa&langs_count=8&layout=compact&theme=github_dark)](https://github.com/aguiardafa/github-readme-stats)
 
