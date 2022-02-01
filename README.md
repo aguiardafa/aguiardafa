@@ -2,7 +2,7 @@
 
 I'm a Software developer/analyst. :technologist::heart:
 
-I currently working with Java Stack :coffee::leaves:(Spring, JSP, JPA, Maven...), Python for data analysis :chart_with_upwards_trend::snake:(Dash Plotly, Dashboards, Pandas, SQL) and Docker :building_construction::whale:.
+I currently working with Java Stack for Web development :coffee::leaves:(Spring Framework Ecosystem, JSP, JPA, Maven... + HTML/CSS/JS and Bootstrap), Python for data analysis :chart_with_upwards_trend::snake:(Dash Plotly, Dashboards, Pandas, SQL and Django), using Relational database :card_index_dividers::file_cabinet:(Oracle, SQL Server, MySQL and PostgreSQL), and Docker + Git for development support :building_construction::whale::octocat:.
 
 I'm enthusiast to web & mobile development technologies. :star_struck:
 
